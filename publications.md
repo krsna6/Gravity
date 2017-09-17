@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /design/
+permalink: /publications/
 ---
 
 Relevant publications
