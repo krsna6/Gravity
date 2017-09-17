@@ -3,10 +3,10 @@
   <channel>
     <title>Krishna Somandepalli</title>
     <description>PhD Student, Signal Analysis and Interpretation Laboratory, USC</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Sep 2017 23:29:07 -0700</pubDate>
-    <lastBuildDate>Sat, 16 Sep 2017 23:29:07 -0700</lastBuildDate>
+    <link>http://localhost:4000./</link>
+    <atom:link href="http://localhost:4000./feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Sep 2017 02:06:00 -0700</pubDate>
+    <lastBuildDate>Sun, 17 Sep 2017 02:06:00 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Prior to USC, I worked as a research scientist at NYU Langone Medical Center, NYC after receiving my masters degree in Electrical and Computer Engineering from University of California at Santa Barbara.&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Sep 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/09/16/who-am-i.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/16/who-am-i.html</guid>
+        <link>http://localhost:4000./2017/09/16/who-am-i.html</link>
+        <guid isPermaLink="true">http://localhost:4000./2017/09/16/who-am-i.html</guid>
         
         
       </item>
