@@ -15,6 +15,11 @@ twitter_username: amodal_spline
 github_username:  krsna6
 paginate: 5
 
-gems: [jekyll-paginate, kramdown]
+gems: [jekyll-paginate, kramdown, jekyll/scholar]
 # Build settings
 markdown: kramdown
+scholar:
+  sort_by: year,month
+  order: descending,descending
+  group_by: year
+  group_order: descending
