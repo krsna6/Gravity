@@ -5,7 +5,7 @@ categories:
 author: "Krishna Somandepalli"
 ---
 
-I am a third year PhD student at the [University of Southern California](https://www.usc.edu/) (USC) [Viterbi School of Engineering](https://viterbischool.usc.edu/). I am a member of the [Signal Analysis and Interpretation Laboratory](sail.usc.edu) (SAIL) and advised by [Prof. Shri Narayanan](http://sail.usc.edu/people/shri.php).  
+I am a third year PhD student at the [University of Southern California](https://www.usc.edu/) (USC) [Viterbi School of Engineering](https://viterbischool.usc.edu/). I am a member of [Signal Analysis and Interpretation Laboratory](sail.usc.edu) (SAIL) and advised by [Prof. Shri Narayanan](http://sail.usc.edu/people/shri.php).  
 
 
 My research interests are primarily in the areas of multimodal signal representation and open set recognition using neural networks. At SAIL, I coordinate the efforts of the [Media Informatics and Content Analysis](sail.usc.edu/mica) (MICA) group in developing engineering models for a quantitative study of multimedia content.

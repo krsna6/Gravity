@@ -9,7 +9,7 @@
 title: Krishna Somandepalli
 email: somandep@usc.edu
 description: PhD Student, Signal Analysis and Interpretation Laboratory, USC
-baseurl: "http://sail.usc.edu/~somandep" # the subpath of your site, e.g. /blog
+baseurl: "" #"http://sail.usc.edu/~somandep" # the subpath of your site, e.g. /blog
 url: "http://sail.usc.edu" # the base hostname & protocol for your site
 twitter_username: amodalspline
 github_username:  krsna6
@@ -23,3 +23,4 @@ scholar:
   order: descending,descending
   group_by: year
   group_order: descending
+iis_slider_array: []

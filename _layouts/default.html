@@ -5,16 +5,31 @@
 
   <body>
 
+    <script src="http://localhost:4000/Ideal-Image-Slider-JS/ideal-image-slider.js"></script>
     {% include header.html %}
-
+    
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
 
-    {% include footer.html %}
+	<!-- Slider -->
+	<script src="{{ "../Ideal-Image-Slider-JS/ideal-image-slider.min.js" | relative_url }}"></script>
+	<script src="{{ "../Ideal-Image-Slider-JS/extensions/bullet-nav/iis-bullet-nav.js" | relative_url }}"></script>
+	<script src="{{ "../Ideal-Image-Slider-JS/extensions/captions/iis-captions.js" | relative_url }}"></script>
+	<!-- Sliders on pages -->
+	{% for script in page.iis_slider_scripts %}
+	  {{ script }}
+	{% endfor %}
+	<!-- Sliders on indexes -->
+	{% for post in paginator.posts %}
+	  {% for script in post.iis_slider_scripts %}
+	    {{ script }}
+	  {% endfor %}
+	{% endfor %}
 
+    {% include footer.html %}
   </body>
 
 </html>
